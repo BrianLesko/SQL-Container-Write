@@ -1,0 +1,15 @@
+[theme]
+primaryColor = "#333333"  # Off-black for primary elements like buttons
+backgroundColor = "#F5F5F5"  # Light off-white for the background
+secondaryBackgroundColor = "#E5E5E5"  # Slightly darker off-white for the sidebar
+textColor = "#262626"  # Dark gray for text
+font = "sans serif"
+
+
+[theme2]
+primaryColor =  "#00A676" # "#058ED9"
+backgroundColor = "#333333"  # Lighter dark grey for the background
+secondaryBackgroundColor = "#1E1E1E"  # Darker grey for the sidebar
+textColor = "#F1F2EB"
+font = "sans serif"
+
